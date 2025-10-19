@@ -37,7 +37,7 @@ It helps users organize tasks, set priorities, and manage projects effectively w
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/EngrJosimuddin42/workhub.git
+git clone https://github.com/EngrJosimuddin42/Work-Hub.git
 
 ---
 
