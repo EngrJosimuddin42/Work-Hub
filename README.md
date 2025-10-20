@@ -42,11 +42,8 @@ git clone https://github.com/EngrJosimuddin42/Work-Hub.git
 ---
 
 🧑‍💻 Author
-
 Engr. Josimuddin
 📧 josimcse@gmail.com
-
-🌐 GitHub Profile
 
 ---
 🪪 License
